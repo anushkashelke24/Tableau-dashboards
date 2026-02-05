@@ -19,11 +19,10 @@ Analyzes Airbnb listings to understand pricing, demand, and revenue trends.
 - Price comparison across zip codes  
 - Weekly revenue trends  
 
-**Tools Used:** Tableau Public, CSV Dataset  
 
 📂 Folder: airbnb-dashboard
 
----
+
 
 ## 🛠 Tools & Skills Used
 
@@ -33,10 +32,9 @@ Analyzes Airbnb listings to understand pricing, demand, and revenue trends.
 - Dashboard Design  
 - Business Insights  
 
----
+
 
 ## 📌 About Me
 
 Data Analyst skilled in Power BI, Tableau, SQL, Python, and Data Visualization.
 
-This portfolio demonstrates hands-on experience in building real-world analytics dashboards for business decision-making.
